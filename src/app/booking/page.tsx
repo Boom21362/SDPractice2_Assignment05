@@ -2,7 +2,7 @@ import DateReserve from '@/components/DateReserve'
 
 export default function Booking(){
     return(
-        <main className="w-[100%] flex flex-col items-center space-y-10">
+        <main className="w-[100%] flex flex-col items-center space-y-10 overflow-hidden">
             <div className="text-3xl size-3xl font-bold m-10"> Venue Booking</div>
             
             <div className="w-fit space-y-2">
